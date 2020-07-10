@@ -1,16 +1,19 @@
-### Hi there 👋
+# João Azevedo :computer:
 
-<!--
-**joaoazevedoJS/joaoazevedoJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoazevedoJS)](https://github.com/joaoazevedoJS)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoazevedojs)](https://www.linkedin.com/in/joaoazevedojs)
+[![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@joaoazevedojs.com.br)](mailto:contato@joaoazevedojs.com.br)
+[![Web Site Badge](https://img.shields.io/badge/-Web%20Site-4285F4?style=flat-square&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://www.joaoazevedojs.com.br)
 
-Here are some ideas to get you started:
+## Hello World! :wave:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, meu nome é João Azevedo, sou programador web a 1 ano e um amante da tecnologia.
+
+## Techs :man_technologist:
+
+| Tecnologias Utilizadas | O quanto sei |
+| - | - |
+| NodeJS | :star: :star: :star: :star: | 
+| ReactJS | :star: :star: :star: :star: |
+| React-Native | :star: :star: :star: :star: |
+| Typescript | :star: :star: :star: |
