@@ -11,9 +11,11 @@ Olá, meu nome é João Azevedo, sou programador web a 1 ano e um amante da tecn
 
 ## Techs :man_technologist:
 
-| Tecnologias Utilizadas | O quanto sei |
+| Tecnologias Utilizadas | Experiência |
 | - | - |
 | NodeJS | :star: :star: :star: :star: | 
 | ReactJS | :star: :star: :star: :star: |
 | React-Native | :star: :star: :star: :star: |
 | Typescript | :star: :star: :star: |
+| Mysql, SQLite | :star: :star: :star: :star: |
+| MongoDB | :star: :star: :star: |
