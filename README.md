@@ -10,7 +10,7 @@ Hello, my name is João Azevedo, I'm fullstack developer and passionate about te
 
 :man_technologist: I'm currently working on JN Moura.
 
-:mortar_board: I'm currently learning Nodejs, React, React-Native and Typescript.
+:mortar_board: I'm currently learning Nodejs, React, React-Native and Java.
 
 :heart: I love to program, challenges and innovation.
 
