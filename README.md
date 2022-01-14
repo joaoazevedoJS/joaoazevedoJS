@@ -13,4 +13,4 @@ Hello, my name is João Azevedo, I'm fullstack developer and passionate about te
 
 :heart: I love to program, challenges and innovation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&layout=compact&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&layout=compact&theme=radical)](url) -->
