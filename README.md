@@ -19,6 +19,9 @@ I have participated in great projects such as Dengo Europa, Yamamay, Carpisa, am
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight)
 
 Send me a message or follow me :arrow_heading_down:
 
