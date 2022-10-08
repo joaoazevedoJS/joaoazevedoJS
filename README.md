@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 Hello, my name is **João Azevedo**. I'm a mid-level front-end developer at [VTurb](https://vturb.com.br/).
 
@@ -21,9 +21,15 @@ I have participated in great projects such as Dengo Europa, Yamamay, Carpisa, am
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight)
-
 Send me a message or follow me :arrow_heading_down:
 
 [![Web Site Badge](https://img.shields.io/badge/-joaoazevedojs.com.br-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://www.joaoazevedojs.com.br)
 [![Linkedin Badge](https://img.shields.io/badge/-joaoazevedojs-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoazevedojs)
+
+<div style="
+    display: flex;
+    align-items: flex-start;
+">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight" height="200px"  alt="status">
+<img src="https://github-readme-stats.vercel.app/api?username=joaoazevedojs&theme=tokyonight&show_icons=true" height="200px" alt="status">
+</div> 
