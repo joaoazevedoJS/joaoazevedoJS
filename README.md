@@ -30,6 +30,6 @@ Send me a message or follow me :arrow_heading_down:
     display: flex;
     align-items: flex-start;
 ">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight" height="200px"  alt="status">
-<img src="https://github-readme-stats.vercel.app/api?username=joaoazevedojs&theme=tokyonight&show_icons=true" height="200px" alt="status">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight" height="150px"  alt="status">
+<img src="https://github-readme-stats.vercel.app/api?username=joaoazevedojs&theme=tokyonight&show_icons=true" height="150px" alt="status">
 </div> 
