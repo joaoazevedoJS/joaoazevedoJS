@@ -24,12 +24,4 @@ I have participated in great projects such as Dengo Europa, Yamamay, Carpisa, am
 Send me a message or follow me :arrow_heading_down:
 
 [![Web Site Badge](https://img.shields.io/badge/-joaoazevedojs.com.br-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com.br)](https://www.joaoazevedojs.com.br)
-[![Linkedin Badge](https://img.shields.io/badge/-joaoazevedojs-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoazevedojs)
-
-<div style="
-    display: flex;
-    align-items: flex-start;
-">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazevedojs&hide=html,css,scss&layout=compact&theme=tokyonight" height="150px"  alt="status">
-<img src="https://github-readme-stats.vercel.app/api?username=joaoazevedojs&theme=tokyonight&show_icons=true" height="150px" alt="status">
-</div> 
+[![Linkedin Badge](https://img.shields.io/badge/-joaoazevedojs-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoazevedojs) 
