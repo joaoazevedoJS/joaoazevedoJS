@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-Hello, my name is **João Azevedo**. I'm a mid-level front-end developer at [VTurb](https://vturb.com.br/).
+Hello, my name is **João Azevedo**. I'm a web developer at [VTurb](https://vturb.com.br/).
 
 I have participated in great projects such as Dengo Europa, Yamamay, Carpisa, among others. I'm passionate about technology and I'm always looking to learn more about it. 
 
