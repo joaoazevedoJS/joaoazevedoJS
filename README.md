@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-# João Azevedo
+## About me
 
 Full Stack Developer with over **6 years of experience in IT**, currently working at [VTurb](https://vturb.com.br/) developing a custom video system for digital marketing that handles thousands of petabytes of data monthly.
-
-## About me
 
 I'm passionate about technology and continuously seeking new challenges. My expertise includes developing high-performance applications, e-commerce solutions, and custom video platforms. 
 
