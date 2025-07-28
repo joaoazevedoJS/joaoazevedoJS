@@ -37,5 +37,5 @@ I'm passionate about technology and continuously seeking new challenges. My expe
 
 ## Let's Connect
 
-[![Web Site Badge](https://img.shields.io/badge/-joaoazevedojs.com.br-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com)](https://www.joaoazevedojs.com)
+[![Web Site Badge](https://img.shields.io/badge/-joaoazevedojs.com-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white&link=https://www.joaoazevedojs.com)](https://www.joaoazevedojs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-joaoazevedojs-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoazevedojs) 
