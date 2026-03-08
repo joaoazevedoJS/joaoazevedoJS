@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=7%2B+years+building+scalable+systems;Video+platform+processing+PBs+monthly;64%25+faster+first-frame+load+time;I+don%27t+just+write+code;I+solve+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=7%2B+years+building+scalable+systems;Video+platform+processing+PBs+monthly;64%25+faster+first-frame+load+time;I+don%27t+just+write+code%2C;I+solve+real+problems!)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,10 +22,6 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 
 ## Key Achievements
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎬 Video & Performance
 
 - Reduced video first-frame load time by **64%**
@@ -33,19 +29,12 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 - Monitors TTFF, buffering & playrate metrics
 - Leads video player team & roadmap with CTO/PM
 
-</td>
-<td width="50%">
-
 ### 🚀 E-commerce & Innovation
 
 - POCs that led to a **multi-million dollar acquisition**
 - Improved website loading speeds by **30%**
 - International brands: Dengo Europe, Yamamay, Carpisa
 - Plug & Play apps for VTEX and Shopify
-
-</td>
-</tr>
-</table>
 
 ## 🏆 Awards & Recognition
 
