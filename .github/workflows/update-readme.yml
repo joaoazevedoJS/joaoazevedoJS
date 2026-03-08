@@ -2,7 +2,7 @@ name: Update README Dynamic Data
 
 on:
   schedule:
-    - cron: '0 0 1 1 *' # Runs every January 1st
+    - cron: '0 0 1 * *' # Runs on the 1st of every month
   workflow_dispatch: # Allow manual trigger
 
 jobs:
@@ -14,16 +14,44 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update years of experience
+      - name: Update dynamic years
         run: |
-          CAREER_START_YEAR=2019
           CURRENT_YEAR=$(date +%Y)
-          YEARS=$((CURRENT_YEAR - CAREER_START_YEAR))
+          CURRENT_MONTH=$(date +%-m)
 
-          sed -i "s/<!--YEARS_OF_EXPERIENCE-->.*<!--\/YEARS_OF_EXPERIENCE-->/<!--YEARS_OF_EXPERIENCE-->${YEARS}+<!--\/YEARS_OF_EXPERIENCE-->/" README.md
+          format_duration() {
+            local start_year=$1
+            local start_month=$2
+            local total_months=$(( (CURRENT_YEAR - start_year) * 12 + (CURRENT_MONTH - start_month) ))
+            local years=$((total_months / 12))
+            local months=$((total_months % 12))
+
+            if [ "$years" -gt 0 ] && [ "$months" -gt 0 ]; then
+              local y_label="years"
+              [ "$years" -eq 1 ] && y_label="year"
+              local m_label="months"
+              [ "$months" -eq 1 ] && m_label="month"
+              echo "${years} ${y_label} ${months} ${m_label}"
+            elif [ "$years" -gt 0 ]; then
+              local y_label="years"
+              [ "$years" -eq 1 ] && y_label="year"
+              echo "${years} ${y_label}"
+            else
+              local m_label="months"
+              [ "$months" -eq 1 ] && m_label="month"
+              echo "${months} ${m_label}"
+            fi
+          }
+
+          EXPERIENCE=$(( (CURRENT_YEAR - 2019) * 12 + (CURRENT_MONTH - 1) ))
+          EXPERIENCE_YEARS=$((EXPERIENCE / 12))
+          sed -i "s/<!--YEARS_OF_EXPERIENCE-->.*<!--\/YEARS_OF_EXPERIENCE-->/<!--YEARS_OF_EXPERIENCE-->${EXPERIENCE_YEARS}+<!--\/YEARS_OF_EXPERIENCE-->/" README.md
+
+          VTURB_DURATION=$(format_duration 2022 3)
+          sed -i "s/<!--VTURB_YEARS-->.*<!--\/VTURB_YEARS-->/<!--VTURB_YEARS-->${VTURB_DURATION}<!--\/VTURB_YEARS-->/" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "chore: update years of experience in README" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update dynamic dates in README" && git push)
