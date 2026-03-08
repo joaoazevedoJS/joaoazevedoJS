@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=7%2B+years+building+scalable+systems;Video+platform+processing+PBs+monthly;64%25+faster+first-frame+load+time;Turning+complex+problems+into+simple+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=7%2B+years+building+scalable+systems;Video+platform+processing+PBs+monthly;64%25+faster+first-frame+load+time;I+don%27t+just+write+code;I+solve+real+problems)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,29 +49,27 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 
 ## 🏆 Awards & Recognition
 
-| Year | Event | Result |
-|------|-------|--------|
-| 2024 | VTurb Recognition Award | ⭐ Highlighted for exceptional deliveries and technical improvements |
-| 2021 | Facebook (Meta) Hackathon | 🥉 Top 3 — AI solution for conflict prevention |
-| 2020 | Paysmart Hackathon | 🥉 Top 3 — Personal finance app with cashback & investments |
-| 2019 | Fatec Jahu Hackathon | 🥉 Top 3 — First semester competition |
+| Year | Event                      | Result                                                               |
+|------|----------------------------|----------------------------------------------------------------------|
+| 2024 | VTurb Recognition Award    | ⭐ Highlighted for exceptional deliveries and technical improvements |
+| 2021 | Facebook (Meta) Hackathon  | 🥉 Top 3 — AI solution for conflict prevention                       |
+| 2020 | Paysmart Hackathon         | 🥉 Top 3 — Personal finance app with cashback & investments          |
+| 2019 | Fatec Jahu Hackathon       | 🥉 Top 3 — First semester competition                                |
 
 ## Experience
 
-```
-🎬 Video Player Specialist & Lead  ·  VTurb           ·  <!--VTURB_YEARS-->4 years<!--/VTURB_YEARS-->
-   → JavaScript, HTML5 Video API, HLS/DASH, Video Processing
+🎬 **Video Player Specialist & Lead** · VTurb · <!--VTURB_YEARS-->4 years<!--/VTURB_YEARS-->
+> JavaScript, HTML5 Video API, HLS/DASH, Video Processing
 
-🛒 Web Developer                   ·  Codeby           ·  1 year 2 months
-   → VTEX, Shopify, E-commerce, Performance Optimization
+🛒 **Web Developer** · Codeby · 1 year 2 months
+> VTEX, Shopify, E-commerce, Performance Optimization
 
-⚙️ Software Engineer               ·  JN Moura         ·  11 months
-   → Full-stack development, QA, Technical Documentation
-```
+⚙️ **Software Engineer** · JN Moura · 11 months
+> Full-stack development, QA, Technical Documentation
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Languages
 
@@ -110,21 +108,8 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoazevedojs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaoazevedojs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=joaoazevedojs&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaoazevedojs&theme=algolia&no-bg=true&no-frame=true&column=7" />
-</div>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoazevedojs/joaoazevedojs/output/github-contribution-grid-snake-dark.svg">
@@ -138,10 +123,6 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 
 [![Web Site Badge](https://img.shields.io/badge/-joaoazevedojs.com-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](https://www.joaoazevedojs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-joaoazevedojs-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoazevedojs)
-[![GitHub Badge](https://img.shields.io/badge/-joaoazevedojs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoazevedojs)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=joaoazevedojs&color=36BCF7&style=for-the-badge)
 
 </div>
