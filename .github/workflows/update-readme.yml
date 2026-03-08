@@ -50,6 +50,8 @@ jobs:
           VTURB_DURATION=$(format_duration 2022 3)
           sed -i "s/<!--VTURB_YEARS-->.*<!--\/VTURB_YEARS-->/<!--VTURB_YEARS-->${VTURB_DURATION}<!--\/VTURB_YEARS-->/" README.md
 
+          sed -i -E "s/lines=[0-9]+%2B\+years/lines=${EXPERIENCE_YEARS}%2B+years/" README.md
+
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
