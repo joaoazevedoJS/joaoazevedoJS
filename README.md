@@ -47,7 +47,7 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 
 ## Experience
 
-🎬 **Video Player Specialist & Lead** · VTurb · <!--VTURB_YEARS-->4 years<!--/VTURB_YEARS-->
+🎬 **Video Player Specialist & Lead** · VTurb · <!--VTURB_YEARS-->4 years 1 month<!--/VTURB_YEARS-->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
