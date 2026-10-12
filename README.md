@@ -25,7 +25,8 @@ Previously built proofs-of-concept for VTEX and Shopify that contributed to mult
 ### 🎬 Video & Performance
 
 - Reduced video first-frame load time by **64%**
-- Decreased player bundle size by **57%**
+- Decreased player bundle size by **76%**
+- Cut player script load time by **30-40%** with the latest 19% bundle reduction
 - Monitors TTFF, buffering & playrate metrics
 - Leads video player team & roadmap with CTO/PM
 
